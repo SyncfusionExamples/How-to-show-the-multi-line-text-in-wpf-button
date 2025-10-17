@@ -1,2 +1,5 @@
 # How-to-show-the-multi-line-text-in-wpf-button
-This sample demonstrates how to show the multi-line text in Syncfusion WPF Button (ButtonAdv) control.
+This sample demonstrates how to display multi-line text in the Syncfusion WPF ButtonAdv control, which is part of Syncfusion’s suite of WPF UI components. In many WPF applications, developers may want to show descriptive or formatted text on buttons, especially when space is limited or when the button needs to convey more context to the user.
+The ButtonAdv control supports advanced styling and layout features, including the ability to wrap text across multiple lines. This is particularly useful for creating buttons with long labels, instructions, or multi-part messages. By adjusting properties such as TextWrapping, ContentTemplate, and Padding, developers can ensure that the button content is displayed clearly and aesthetically.
+This sample includes a working example of how to configure the ButtonAdv control in XAML to support multi-line text. It also demonstrates how to align and style the text to match the application's design requirements.
+This example is ideal for developers looking to enhance the usability and visual clarity of buttons in WPF applications using Syncfusion controls.
