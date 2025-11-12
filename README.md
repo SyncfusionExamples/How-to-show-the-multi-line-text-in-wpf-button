@@ -1,5 +1,22 @@
-# How-to-show-the-multi-line-text-in-wpf-button
-This sample demonstrates how to display multi-line text in the Syncfusion WPF ButtonAdv control, which is part of Syncfusion’s suite of WPF UI components. In many WPF applications, developers may want to show descriptive or formatted text on buttons, especially when space is limited or when the button needs to convey more context to the user.
-The ButtonAdv control supports advanced styling and layout features, including the ability to wrap text across multiple lines. This is particularly useful for creating buttons with long labels, instructions, or multi-part messages. By adjusting properties such as TextWrapping, ContentTemplate, and Padding, developers can ensure that the button content is displayed clearly and aesthetically.
-This sample includes a working example of how to configure the ButtonAdv control in XAML to support multi-line text. It also demonstrates how to align and style the text to match the application's design requirements.
-This example is ideal for developers looking to enhance the usability and visual clarity of buttons in WPF applications using Syncfusion controls.
+# How to Show Multi-Line Text in WPF ButtonAdv
+## Overview
+This sample demonstrates how to display multi-line text in the Syncfusion WPF ButtonAdv control, part of Syncfusion’s WPF UI components. In many WPF applications, developers may need to show descriptive or formatted text on buttons—especially when space is limited or when the button must convey more context to the user.
+
+The ButtonAdv control supports advanced styling and layout features, including the ability to wrap text across multiple lines. This is particularly useful for:
+- Buttons with long labels
+- Instructions or multi-part messages
+- Improving readability in compact layouts
+
+## Key Properties
+To enable multi-line text:
+- **TextWrapping**: Allows text to wrap within the button.
+- **ContentTemplate**: Customize text layout and styling.
+- **Padding**: Adjust spacing for better visual clarity.
+
+## Example
+This sample includes a working XAML example showing how to configure ButtonAdv for multi-line text and align it to match your application’s design requirements.
+
+##  Use Case
+Ideal for developers looking to:
+- Enhance usability and clarity of buttons in WPF applications
+- Display detailed or formatted text without compromising design
